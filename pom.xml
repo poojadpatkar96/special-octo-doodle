@@ -71,13 +71,13 @@
   <distributionManagement>
     <repository>
         <id>central</id>
-        <name>artifactory-releases</name>
-        <url>http://35.225.43.242:8081/artifactory/libs-release-local</url>
+        <name>artifactory-pro-releases</name>
+        <url>https://jfrogartifactorypro.tk/artifactory/lib-release-local</url>
     </repository>
     <snapshotRepository>
         <id>snapshots</id>
-        <name>artifactory-snapshots</name>
-        <url>http://35.225.43.242:8081/artifactory/libs-release-local</url>
+        <name>artifactory-pro-snapshots</name>
+        <url>https://jfrogartifactorypro.tk/artifactory/lib-release-local</url>
     </snapshotRepository>
 </distributionManagement>
 
